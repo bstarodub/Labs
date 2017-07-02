@@ -1,0 +1,72 @@
+﻿  Game.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  GameGraphics.cpp
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(19): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(19): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(20): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(20): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(21): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(21): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(23): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(23): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(24): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(24): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(25): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(25): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(35): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(35): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(36): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(36): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(37): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(37): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(38): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(38): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(87): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(87): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(88): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(88): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(92): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(92): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(93): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(93): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(97): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(97): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(98): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(98): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(102): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(102): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(103): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(103): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(107): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(107): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(108): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(108): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(113): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(113): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(114): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(114): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(118): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(118): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(119): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(119): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(124): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(124): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(125): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(125): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(126): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(126): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(127): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(127): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(129): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(129): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(130): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(130): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(131): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(131): warning C4309: 'argument': truncation of constant value
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(132): warning C4305: 'argument': truncation from 'FrameType' to 'char'
+c:\users\богдан\documents\visual studio 2015\projects\battleships\battleships\gamegraphics.cpp(132): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  BattleShips.vcxproj -> C:\Users\Богдан\Documents\Visual Studio 2015\Projects\BattleShips\Debug\BattleShips.exe
+  BattleShips.vcxproj -> C:\Users\Богдан\Documents\Visual Studio 2015\Projects\BattleShips\Debug\BattleShips.pdb (Full PDB)
